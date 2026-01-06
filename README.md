@@ -24,7 +24,8 @@ It receives Beacon webhook events from the LINE Messaging API, detects user entr
 
 ---
 
-## change needed
+## value can be modify
 - ACCESS_TOKEN = 'CHANGE_TO_YOUR_LINE_CHANNEL_ACCESS_TOKEN'
+- store ID: recently store_ID is the 5th and 6th bit of "dm", can change if needed
 
 
