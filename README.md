@@ -24,7 +24,7 @@ It receives Beacon webhook events from the LINE Messaging API, detects user entr
 
 ---
 
-## auth needed
+## change needed
 - ACCESS_TOKEN = 'CHANGE_TO_YOUR_LINE_CHANNEL_ACCESS_TOKEN'
 
 
