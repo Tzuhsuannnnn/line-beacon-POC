@@ -18,7 +18,7 @@ It receives Beacon webhook events from the LINE Messaging API, detects user entr
 | Layer | Technology |
 |------|-----------|
 | Backend | Python / Flask |
-| Frontend | HTML / CSS / Vanilla JavaScript |
+| Frontend | HTML / CSS / JS |
 | API | LINE Messaging API (Webhook / Reply API) |
 | Storage | In-memory |
 
